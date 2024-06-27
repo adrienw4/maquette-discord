@@ -3,10 +3,9 @@ body{
     text-align: center;
     background-color: #0f0e17;
     margin: 0px;
-    display: flex;
+
     flex-direction: column;
     align-items: center;
-    gap: 25px;
    
   }
   
@@ -36,13 +35,16 @@ body{
  section{ 
    display: flex;
    flex-direction: column;
-   gap: 20px;
+
    align-items: center;
    
     max-width: 790px;
     background-color: #fffffe;
     border-radius: 10px 
     ;
+    margin: auto;
+    margin-top: 30px;
+    
     
   }
 
